@@ -121,3 +121,5 @@ Setelah semua setup selesai, jalankan server development Flask:
 flask run atau python run.py
 
 Aplikasi akan berjalan secara default di http://127.0.0.1:5000/
+
+1
